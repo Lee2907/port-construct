@@ -1,27 +1,4 @@
 @charset "utf-8";
-/*
-01) ARLO BASE
-02) ARLO TOPBAR
-03) ARLO MOBILE MENU
-04) ARLO HERO
-05) ARLO ABOUT
-06) ARLO SERVICES
-07) ARLO PORTFOLIO
-08) ARLO COUNTER
-09) ARLO NEWS
-10) ARLO CONTACT
-11) ARLO COPYRIGHT
-12) ARLO CURSOR
-13) ARLO RIPPLE EFFECT
-14) ARLO GLITCH EFFECT
-15) ARLO PARTICLE EFFECT
-16) ARLO MEDIA QUERIES (FOR SMALL DEVICES)
-
-
-/*---------------------------------------------------*/
-
-/*	01) ARLO BASE
-/*---------------------------------------------------*/
 
 html {
     overflow-x: hidden;
